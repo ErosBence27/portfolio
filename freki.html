@@ -14,7 +14,7 @@
 
     <h1>FrekiSzámoló</h1>
 
-    <img src="img/Rezonancia+frekvencia.jpg" alt="rezofreki képlet" width="200px">
+    <img src="img/Rezonancia+frekvencia.jpg" alt="rezofreki képlet" width="300px">
 
     <form action="">
         <label for="induk">Add meg az induktivitás értékét(L): </label>
@@ -25,10 +25,12 @@
         <br>
     </form>
 
+    <p id="fo">Az eredmény itt fog megjelenni, ha meg nyomod az ENTER gombot!: </p>
+
     <script>
         let freki = 0;
         function szamal(){
-
+            document.getElementById('fo').innerHTML = freki;
         }
     </script>
     
