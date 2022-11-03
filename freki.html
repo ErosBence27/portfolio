@@ -28,9 +28,14 @@
     <p id="fo">Az eredmény itt fog megjelenni, ha meg nyomod az ENTER gombot!: </p>
 
     <script>
-        let freki = 0;
         function szamal(){
-            freki = 1 / (2*Math.PI(parseInt(induk.value) * parseInt(capac.value))) ;
+            let L = parseInt(induk.value) / 1000000;
+            let C = parseInt(capac.value) / 1000000;
+            let freki = L* C ;
+            freki = Math.sqrt(freki);
+            freki = 2 * freki;
+            freki = Math.PI * freki;
+            freki = 1 / freki;
             document.getElementById('fo').innerHTML = freki;
         }
     </script>
