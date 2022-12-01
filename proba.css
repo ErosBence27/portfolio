@@ -19,7 +19,7 @@ body {
         width: 370px;  
         padding: 40px;  
         margin: 100px auto 60px;  
-        position: relative;  
+        position: left ; 
     }  
     #clock:after {  
         content: ' ';  
