@@ -1,6 +1,6 @@
 # Skori - Vezeték nélkülki LED meghajtó - Épitése
 
-![Kapcsolásirajz]( "Kapcsolási Rajz")
+![Kapcsolásirajz](img/skoriK%C3%A9pkiv%C3%A1g%C3%A1s.PNG "Kapcsolási Rajz")
 
 ## Az általam választott alkatrészek értékei:
 
