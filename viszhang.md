@@ -5,11 +5,17 @@
 # Műszaki adatok
 
 |Működési Feszültseg|
-|----|----|----|----|
-# 9...12V DC 
+|9...12V|
+
 |Maximális áramfelvétel|
-|----|----|----|----|
-# 150mA max 
+|150 mA max|
+
+|Delay Time|
+|80..100ms|
+
+|Hangszoró kimenet|
+| 500 mW (8 Ohm, 10 % THD)|
+
 
 # Alkatrészek Értékei
 
@@ -47,5 +53,5 @@
 
 # Kapcsolási Rajz
 
-
+![Kapcsolásirajz]("Kapcsolási Rajz")
 
