@@ -50,7 +50,7 @@
 |........|SK2: Line out 2x|
 |........|SK3: Speaker 2x|
 |........|SK4: Line in 2x|
-
+|....|
 # Kapcsolási Rajz
 
 ![Kapcsolásirajz](viszhang/viszhang_generator.PNG"Kapcsolási Rajz")
