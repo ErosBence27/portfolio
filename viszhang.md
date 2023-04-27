@@ -53,5 +53,5 @@
 
 # Kapcsolási Rajz
 
-![Kapcsolásirajz]("Kapcsolási Rajz")
+![Kapcsolásirajz](viszhang/viszhang_generator.PNG"Kapcsolási Rajz")
 
