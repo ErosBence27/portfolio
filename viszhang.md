@@ -55,5 +55,4 @@
 
 ![Kapcsolásirajz](viszhang/viszhang_generator.PNG "Kapcsolási Rajz")
 
-![Részletesen a kapcsolásirajz](viszhang/viszhangelemzes.PNG "Részletes Rajz)
-
+![Részletesen a kapcsolásirajz](viszhang/viszhangelemzes.PNG "Részletes Kapcsolási Rajz)
